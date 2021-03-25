@@ -106,7 +106,7 @@ python-Levenshtein==0.12.0
 pytz==2018.3
 PyWavelets==0.5.2
 pywhatsapp==0.0.7
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 QtAwesome==0.4.4
 qtconsole==4.3.1
